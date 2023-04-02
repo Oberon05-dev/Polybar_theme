@@ -1,4 +1,5 @@
 # Polybar_theme
 
 requirements:
-  rofi
+- rofi
+- install module: https://github.com/mihirlad55/polybar-spotify-module
